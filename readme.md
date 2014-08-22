@@ -1,0 +1,1 @@
+Rename Variables_example.py to Variables.py and fill in the keys & secrets and adjust any other variables you need to
