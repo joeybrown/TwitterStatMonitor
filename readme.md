@@ -9,4 +9,6 @@ Requirements:
 3. Redis server running (you can specify the port in Variables.py)
 4. Packages in requirements.txt must be installed (pip)
 
+To run it, just run main.py, and hit the endpoint '/getStats' (ex. localhost/getStats)
+
 Let me know if you run into problems, and feel free to submit a pull request!
